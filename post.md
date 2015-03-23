@@ -1,5 +1,4 @@
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://4.bp.blogspot.com/-G-gHjU1wdy4/VMAIjjHrUhI/AAAAAAAANRo/ZkXhYkwDRpQ/s1600/no_mouse_rat_poster-rca6f146c2c2a4776a6d628fc78d82f52_wvt_8byvr_324.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://4.bp.blogspot.com/-G-gHjU1wdy4/VMAIjjHrUhI/AAAAAAAANRo/ZkXhYkwDRpQ/s640/no_mouse_rat_poster-rca6f146c2c2a4776a6d628fc78d82f52_wvt_8byvr_324.jpg" /></a></div>
+
 I developed this set of solutions after a couple of weeks of suffering hand and arm pain due to work. I spent 8+ hours a day in front of my computer, so the combination of arm movement between the trackpad and keyboard, and the trackpad (later mouse) itself were provoking me a lot of inflammation related pain. A week of only using the keyboard, and it was gone!<br />
 <br />
 Something like this is great for people with Carpal Tunnel Syndrome or related ailments, I can vouch for it. If you need help setting it up, just say so in the comments, and I'll do my best to help.<br />
