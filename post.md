@@ -74,9 +74,9 @@ To use  Ctrl + P / Ctrl + N I put this on my .zshrc:
 ### 
 Pending work (comment if you know how to fix these things please!)
 
-<li>Chrome tab-hell: After doing ⌘ + L to focus the omnibar, I can't find a way to focus the tab's content without tabbing through all the extension buttons. </li>
-<li>Gmail: It has too many keyboard shortcuts to ignore them in the .cvimrc, but by itself I can't click on links easily.</li>
-<li>Move tabs around in Chrome and Atom: Can be done in iTerm with ⌘ + ⇧ + Left/Right, but can't find a way to do it anywhere else.</li>
+* Chrome tab-hell: After doing ⌘ + L to focus the omnibar, I can't find a way to focus the tab's content without tabbing through all the extension buttons. 
+* Gmail: It has too many keyboard shortcuts to ignore them in the .cvimrc, but by itself I can't click on links easily.</li>
+* Move tabs around in Chrome and Atom: Can be done in iTerm with ⌘ + ⇧ + Left/Right, but can't find a way to do it anywhere else.</li>
 
 Most of all, 
 
